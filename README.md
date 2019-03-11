@@ -13,3 +13,5 @@ The PV array is 14 Sunmodule Plus SW 280 mono panels, with a total capacity of 3
 * Open Circuit Voltage: 39.5 Volts
 * Short Circuit Current:	9.71 Amps
 * Power Tolerance	0/+5%
+
+The biggest challenge is dealing with the PV array's use of microinverters. The power that it feeds back is AC, not DC.
